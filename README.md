@@ -1,12 +1,15 @@
-# Build a ML model for sentimental analysis
+# Overview
 
-Classic sentimental analysis using Twitter data.
+Build a machine learning model for sentimental analysis using Twitter data.
+
 
 - [Medium story](https://medium.com/@kuriko-iwai/88bb17583358?source=friends_link&sk=122d74d93dbacd7906330184b1254b80)
 
 - Dataframe
 
-<img src="/images/terminal.png" width="300">
+<p align="center">
+    <img src="/images/terminal.png" width="500">
+</p>
 
 
 ## Usage
@@ -43,6 +46,4 @@ Classic sentimental analysis using Twitter data.
 
 ## Results
 
-<img src="images/confusion_matrix.png">
-
-<img src="images/roc_curve.png">
+<img src="images/confusion_matrix.png"> <img src="images/roc_curve.png">
