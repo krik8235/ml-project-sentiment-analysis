@@ -45,5 +45,8 @@ Build a machine learning model for sentimental analysis using Twitter data.
 
 
 ## Results
-
-<img src="images/confusion_matrix.png"> <img src="images/roc_curve.png">
+<p align="center">
+    <img src="images/confusion_matrix.png" width="48%">
+     &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="images/roc_curve.png" width="48%">
+</p>
