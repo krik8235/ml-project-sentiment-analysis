@@ -1,0 +1,4 @@
+sample/
+train*.csv
+
+.memo.txt
